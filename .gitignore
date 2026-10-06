@@ -1,0 +1,7 @@
+datasets/
+videos_prueba/
+runs/**/weights/
+*.pt
+*.zip
+__pycache__/
+.ipynb_checkpoints/
